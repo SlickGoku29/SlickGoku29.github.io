@@ -91,18 +91,6 @@ ul {
     font-size: 32px;
   }
 
-  .nav {
-    font-size: 28px !important;
-  }
-
-  li {
-    font-size: 24px;
-  }
-
-  li a {
-    padding: 12px 80px;
-  }
-
   #gallery-container {
     grid-template-columns: repeat(3, 1fr);
     gap: 60px;
@@ -118,19 +106,7 @@ ul {
   }
 
   h2 {
-    font-size: 26px;
-  }
-
-  .nav {
-    font-size: 20px !important;
-  }
-
-  li {
-    font-size: 18px;
-  }
-
-  li a {
-    padding: 10px 50px;
+    font-size: 54px;
   }
 
   #gallery-container {
@@ -153,7 +129,7 @@ ul {
   }
 
   h2 {
-    font-size: 20px;
+    font-size: 57px;
   }
 
   .nav {
